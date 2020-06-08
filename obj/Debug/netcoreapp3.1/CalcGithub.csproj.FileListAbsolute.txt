@@ -1,0 +1,13 @@
+/home/pedroamf/workspace/Calculadoracsharp/CalcGithub/bin/Debug/netcoreapp3.1/CalcGithub
+/home/pedroamf/workspace/Calculadoracsharp/CalcGithub/bin/Debug/netcoreapp3.1/CalcGithub.deps.json
+/home/pedroamf/workspace/Calculadoracsharp/CalcGithub/bin/Debug/netcoreapp3.1/CalcGithub.runtimeconfig.json
+/home/pedroamf/workspace/Calculadoracsharp/CalcGithub/bin/Debug/netcoreapp3.1/CalcGithub.runtimeconfig.dev.json
+/home/pedroamf/workspace/Calculadoracsharp/CalcGithub/bin/Debug/netcoreapp3.1/CalcGithub.dll
+/home/pedroamf/workspace/Calculadoracsharp/CalcGithub/bin/Debug/netcoreapp3.1/CalcGithub.pdb
+/home/pedroamf/workspace/Calculadoracsharp/CalcGithub/obj/Debug/netcoreapp3.1/CalcGithub.csprojAssemblyReference.cache
+/home/pedroamf/workspace/Calculadoracsharp/CalcGithub/obj/Debug/netcoreapp3.1/CalcGithub.AssemblyInfoInputs.cache
+/home/pedroamf/workspace/Calculadoracsharp/CalcGithub/obj/Debug/netcoreapp3.1/CalcGithub.AssemblyInfo.cs
+/home/pedroamf/workspace/Calculadoracsharp/CalcGithub/obj/Debug/netcoreapp3.1/CalcGithub.csproj.CoreCompileInputs.cache
+/home/pedroamf/workspace/Calculadoracsharp/CalcGithub/obj/Debug/netcoreapp3.1/CalcGithub.dll
+/home/pedroamf/workspace/Calculadoracsharp/CalcGithub/obj/Debug/netcoreapp3.1/CalcGithub.pdb
+/home/pedroamf/workspace/Calculadoracsharp/CalcGithub/obj/Debug/netcoreapp3.1/CalcGithub.genruntimeconfig.cache
